@@ -1,3 +1,4 @@
 # mlops-zoomcamp
 
-This is an example
+
+# 01- intro for the course
